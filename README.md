@@ -1,2 +1,2 @@
-# APS360_Project hi
+# APS360_Project
 
