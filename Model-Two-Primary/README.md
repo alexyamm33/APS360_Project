@@ -13,10 +13,10 @@ The model is tested with a webcam and shows reasonable accuracy when differencia
 
 ![cloth](samples/cloth_0701.PNG)
 ![surgical](samples/surgical_0701.PNG)
-![detection results 1](samples/Tensorboard_0630_Detection_14k.PNG)
-![detection results 2](samples/Tensorboard_0630_Detection_14k.PNG)
-![homemade](samples/Tensorboard_0630_Recall_10k.PNG)
-![Precision](samples/Tensorboard_0630_mAP_14k.PNG)
+![prediction vs ground truth](samples/Tensorboard_0630_Detection_14k.PNG)
+![loss](samples/Tensorboard_0630_Loss_1_14k.PNG)
+![precision](samples/Tensorboard_0630_Precision_10k.PNG)
+![recall](samples/Tensorboard_0630_Recall_10k.PNG)
 
 The Colab Notebook, images, and Python scripts used in this model can be found in the following google drive folder: https://drive.google.com/drive/folders/1CqRUFq5GW--6YsqpW3gWHFq3hnTXeLg9?usp=sharing
 
