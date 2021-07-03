@@ -13,6 +13,7 @@ The model is tested with a webcam and shows reasonable accuracy when differencia
 
 ![cloth](samples/cloth_0701.PNG)
 ![surgical](samples/surgical_0701.PNG)
+![n95](samples/n95_0701.PNG)
 ![prediction vs ground truth](samples/Tensorboard_0630_Detection_14k.PNG)
 ![loss](samples/Tensorboard_0630_Loss_1_14k.PNG)
 ![precision](samples/Tensorboard_0630_Precision_10k.PNG)
