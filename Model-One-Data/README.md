@@ -22,3 +22,6 @@ The training was done for 20 epochs, and it is evident that at the 7th epoch, th
 
 ## Results with Testing Dataset 
 With the model at its 7th epoch, a 95.5 percent test accuracy was achieved. However, another small set of images not from the CMFD or IMFD was loaded, and the model achieved only a 75% accuracy. This potentially due to the model being baised towards the style of images in the CMFD and IMFD.
+
+
+Link to Colab Notebook: https://colab.research.google.com/drive/1HA4mMuJkPt1iqxrXvknCl7m8yXYpMbOQ?usp=sharing
