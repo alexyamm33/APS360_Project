@@ -5,7 +5,9 @@ The purpose of the model is to classify facial images into two classes. The firs
 This model serves as a baseline comparison to the actual model that will be used eventually. Thus, a simple 3 layer CNN will be used. 
 ## Data Collection
 The dataset contains 2 classes, incorrect and correctly worn masks. The data were retrieved from the following links: 
+
 Correctly Worn Masks (CMFD): https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/Ev3GdnQSyzxPjyzU5ElHqagBlkRCaKnnCI85iX-d1L4OHA?e=G7uaYV
+
 Incorrectly Worn Masks (IMFD): https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/EirjS8ew7-5LnO8I56Uk63wBKebwSlukFBFBaO8N25wn3g?e=Ho1jHG
 
 ## Data Cleaning 
