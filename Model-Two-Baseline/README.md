@@ -22,6 +22,9 @@ The model tuning process showed improved learning on greyscale images. The origi
 ## Training
 (todo)
 
+![image](https://user-images.githubusercontent.com/35859024/124391042-9bc0d380-dcbc-11eb-863b-57026b3a1f2b.png)
+
+
 ## Performance
 (todo)
 ![image](https://user-images.githubusercontent.com/35859024/124390010-b17fca00-dcb7-11eb-85ba-b9fe1b5a16d1.png)
