@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>2.jpg</filename>
+	<path>C:\Users\DarkVoLaf\Desktop\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>177</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>36</ymin>
+			<xmax>117</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

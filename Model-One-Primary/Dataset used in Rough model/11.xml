@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>11.jpg</filename>
+	<path>C:\Users\DarkVoLaf\Desktop\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>153</width>
+		<height>131</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nomask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>70</ymin>
+			<xmax>151</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>
