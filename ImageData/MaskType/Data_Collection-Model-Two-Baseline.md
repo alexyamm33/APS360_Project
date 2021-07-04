@@ -1,4 +1,4 @@
-# Data collection (Baotian)
+# Data collection (Mask Type Classification - Baseline Model)
 A detailing of the image data that was used to train, validate, and test the classification models used to identify the type of mask being worn.
 
 Raw images were used from the following sources:
