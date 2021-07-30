@@ -48,4 +48,12 @@ After tuning hyperparameters, the final ALEXNET baseline model has a 69.5% testi
 
 ![image](https://user-images.githubusercontent.com/35859024/125530291-f159786c-5a8c-4b8b-896c-fcf3325266f2.png)
 
+*Confusion matrix*
+
+![image](https://user-images.githubusercontent.com/35859024/125532435-bbd2af6c-9104-4716-bf60-52d4d1ecb994.png)
+
+![image](https://user-images.githubusercontent.com/35859024/125533503-5dbd6c66-58f0-4a7c-84e3-0e346fc0b36a.png)
+
+There is the most confusion in distinguishing n95's and surgical masks.
+
 
