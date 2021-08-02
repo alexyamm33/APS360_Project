@@ -1,6 +1,15 @@
-# Mask Type Classification - Baseline Model
+# Mask Type Classification - Baseline Model II
 ## Background
 This model serves as simple baseline model that classifies images of mask-wearing persons into one of three mask categories: "n95", "surgical" or "other". This model is a 3-layer CNN that uses ALEXNET transfer learning.
+
+## Summary
+This model was trained on a balanced dataset of 1080 images, 15 epochs, and uses L2 regularization. Its final performance was evaluated on a balanced dataset of 360 images it never saw before.
+
+The model has a **69.5% testing accuracy**.
+Testing results showed a **70.4 % precision**, **70.1% recall**.
+**F1 score: 70.3%**.
+
+Detailed performance results can be read below under *Performance*.
 
 ## The Dataset 
 Raw images were obtained from the following sources:
@@ -50,7 +59,10 @@ After tuning hyperparameters, the final ALEXNET baseline model has a 69.5% testi
 
 *Confusion matrix*
 
-![image](https://user-images.githubusercontent.com/35859024/125532435-bbd2af6c-9104-4716-bf60-52d4d1ecb994.png)
+![image](https://user-images.githubusercontent.com/35859024/127873686-294067d1-0010-49a2-ba4e-f108cb8e7047.png)
+
+Average precision: 0.7041021268
+Average recall: 0.7011932805
 
 ![image](https://user-images.githubusercontent.com/35859024/125533503-5dbd6c66-58f0-4a7c-84e3-0e346fc0b36a.png)
 
