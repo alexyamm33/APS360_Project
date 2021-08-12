@@ -15,8 +15,9 @@ A subfolder, containing around 946 images, of both classes is taken, constructin
 To ensure the model is not biased towards the color of the mask in the images, all images are converted into grayscale. This also makes training the CNN model faster since the input data would only have 1 channel. 
 
 ## Training 
-<img width="653" alt="Screen Shot 2021-07-02 at 11 09 23 PM" src="https://user-images.githubusercontent.com/53017821/124341471-a5e2b500-db8a-11eb-9f37-3c020e85e118.png">
-<img width="552" alt="Screen Shot 2021-07-02 at 11 09 35 PM" src="https://user-images.githubusercontent.com/53017821/124341476-af6c1d00-db8a-11eb-8684-e485434cded0.png">
+![Picture1](https://user-images.githubusercontent.com/53017821/129280869-0b427148-b5f7-4d06-8140-83cecbbef9c6.png)
+![2](https://user-images.githubusercontent.com/53017821/129280877-068268fb-c294-4d41-b615-9abd2393b81d.png)
+
 The training was done for 20 epochs, and it is evident that at the 7th epoch, the model isn't underfitted nor overfitted. 
 
 
